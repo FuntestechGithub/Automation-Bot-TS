@@ -1,0 +1,14 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+        "allowJs": true,
+        "module": "commonJS",
+        "esModuleInterop": true,
+        "outDir": "lib",
+        "rootDir": "src",
+        "allowSyntheticDefaultImports": true,
+        "target": "es6",
+        "downlevelIteration": true
+    },
+    "include": ["src/**/*"]
+}

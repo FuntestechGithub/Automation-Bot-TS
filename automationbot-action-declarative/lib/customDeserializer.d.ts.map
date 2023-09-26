@@ -1,0 +1,1 @@
+{"version":3,"file":"customDeserializer.d.ts","sourceRoot":"","sources":["../src/customDeserializer.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAC,OAAO,EAAC,MAAM,iCAAiC,CAAA;AAEvD;;GAEG;AACH,MAAM,WAAW,kBAAkB,CAAC,CAAC,EAAE,CAAC;IACpC,IAAI,CAAC,MAAM,EAAE,CAAC,EAAE,IAAI,EAAE,OAAO,CAAC,CAAC,EAAE,GAAG,EAAE,CAAC,GAAG,CAAC,CAAC;CAC/C"}
